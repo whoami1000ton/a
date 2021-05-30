@@ -1,0 +1,39 @@
+*{
+	margin: 5px;
+	padding: 5px;
+}
+body{
+	background-color: skyblue;
+	color: white;
+	border-radius: 20px;
+}
+#cont1{
+	height: 700px;
+	width: 70%;
+	background-color: pink;
+	border-radius: 10px;
+	font-size: 20pt;
+}
+header{
+	height: 100px;
+	background-color: blue;
+	text-align: center;
+	border-radius: 10px;
+}
+header h1{
+	color: white;
+}
+section{
+	padding: 0px;
+	height: 560px;
+	background-color: orange;
+	border-radius: 10px;
+}
+img{
+	height: 40%;
+	width: 70%;
+}
+section h1{
+	font-family: arial;
+	color: black;
+}
